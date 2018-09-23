@@ -1,0 +1,446 @@
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ApplicationInsights.config
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\MvcFFbasENew.dll.config
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\MvcFFbasENew.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\MvcFFbasENew.pdb
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\csc.exe
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\csc.exe.config
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\csc.rsp
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\csi.exe
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\csi.exe.config
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\csi.rsp
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.AppContext.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Console.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Threading.Thread.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\vbc.exe
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\vbc.exe.config
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\vbc.rsp
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Antlr3.Runtime.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.Web.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Newtonsoft.Json.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Helpers.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Mvc.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Optimization.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Razor.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.WebPages.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\WebGrease.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Helpers.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Mvc.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Optimization.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Razor.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.WebPages.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Newtonsoft.Json.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Antlr3.Runtime.pdb
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.Web.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\System.Web.Razor.resources.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\obj\Debug\MvcFFbasENew.csprojAssemblyReference.cache
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\obj\Debug\MvcFFbasENew.csproj.CoreCompileInputs.cache
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\obj\Debug\MvcFFbasENew.csproj.CopyComplete
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\obj\Debug\MvcFFbasENew.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\obj\Debug\MvcFFbasENew.pdb
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\EntityFramework.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\EntityFramework.SqlServer.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\FFbasEDataEF.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\WinFormsFFbasE-EF.exe
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\FFbasEDataEF.pdb
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\FFbasEDataEF.dll.config
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\WinFormsFFbasE-EF.pdb
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\WinFormsFFbasE-EF.exe.config
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\EntityFramework.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\EntityFramework.SqlServer.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\EntityFramework.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ApplicationInsights.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\MvcFFbasENew.dll.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\MvcFFbasENew.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\MvcFFbasENew.pdb
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\csc.exe
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\csc.exe.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\csc.rsp
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\csi.exe
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\csi.exe.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\csi.rsp
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.AppContext.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Console.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\vbc.exe
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\vbc.exe.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\vbc.rsp
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Antlr3.Runtime.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\EntityFramework.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\FFbasEDataEF.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.Web.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Newtonsoft.Json.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Helpers.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Mvc.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Optimization.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Razor.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.WebPages.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\WebGrease.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\WinFormsFFbasE-EF.exe
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\FFbasEDataEF.pdb
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\FFbasEDataEF.dll.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\WinFormsFFbasE-EF.pdb
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\WinFormsFFbasE-EF.exe.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\EntityFramework.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Helpers.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Mvc.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Optimization.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.Razor.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.WebPages.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Newtonsoft.Json.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.AI.Web.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\EntityFramework.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\obj\Debug\MvcFFbasENew.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\obj\Debug\MvcFFbasENew.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\obj\Debug\MvcFFbasENew.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site\MvcFFbasENew\obj\Debug\MvcFFbasENew.pdb
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ApplicationInsights.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\FFbasE .mdf
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\FFbasE _log.ldf
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\MvcFFbasENew.dll.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\MvcFFbasENew.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\MvcFFbasENew.pdb
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\csc.exe
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\csc.exe.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\csc.rsp
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\csi.exe
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\csi.exe.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\csi.rsp
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.AppContext.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Console.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\vbc.exe
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\vbc.exe.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\vbc.rsp
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Antlr3.Runtime.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\EntityFramework.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\FFbasEDataEF.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.Web.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Newtonsoft.Json.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Helpers.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Mvc.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Optimization.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Razor.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.WebPages.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\WebGrease.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\WinFormsFFbasE-EF.exe
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\FFbasEDataEF.pdb
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\FFbasEDataEF.dll.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\WinFormsFFbasE-EF.pdb
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\WinFormsFFbasE-EF.exe.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\EntityFramework.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Helpers.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Mvc.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Optimization.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Razor.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.WebPages.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Newtonsoft.Json.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.Web.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\EntityFramework.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\obj\Debug\MvcFFbasENew.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\obj\Debug\MvcFFbasENew.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\obj\Debug\MvcFFbasENew.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\obj\Debug\MvcFFbasENew.pdb
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ApplicationInsights.config
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\FFbasE .mdf
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\FFbasE _log.ldf
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\MvcFFbasENew.dll.config
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\MvcFFbasENew.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\MvcFFbasENew.pdb
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\csc.exe
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\csc.exe.config
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\csc.rsp
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\csi.exe
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\csi.exe.config
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\csi.rsp
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.AppContext.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Console.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Threading.Thread.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\vbc.exe
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\vbc.exe.config
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\vbc.rsp
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Antlr3.Runtime.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\EntityFramework.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\EntityFramework.SqlServer.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\FFbasEDataEF.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.Web.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Newtonsoft.Json.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Helpers.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Mvc.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Optimization.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Razor.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.WebPages.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\WebGrease.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\WinFormsFFbasE-EF.exe
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\FFbasEDataEF.pdb
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\FFbasEDataEF.dll.config
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\WinFormsFFbasE-EF.pdb
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\WinFormsFFbasE-EF.exe.config
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\EntityFramework.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\EntityFramework.SqlServer.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Helpers.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Mvc.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Optimization.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.Razor.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.WebPages.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Newtonsoft.Json.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Antlr3.Runtime.pdb
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.AI.Web.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\EntityFramework.resources.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\System.Web.Razor.resources.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\obj\Debug\MvcFFbasENew.csprojAssemblyReference.cache
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\obj\Debug\MvcFFbasENew.csproj.CoreCompileInputs.cache
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\obj\Debug\MvcFFbasENew.csproj.CopyComplete
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\obj\Debug\MvcFFbasENew.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\MvcFFbasENew\obj\Debug\MvcFFbasENew.pdb

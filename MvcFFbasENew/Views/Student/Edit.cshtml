@@ -1,0 +1,53 @@
+﻿@model FFbasEDataEF.STUDENT
+
+@{
+    IEnumerable<FFbasEDataEF.CLIENT> ClientList = ViewBag.ClientList;
+    IEnumerable<FFbasEDataEF.COURSE_OF_LECTURE> CourseList = ViewBag.CourseList;
+    ViewBag.Title = "Редактирование информации студента";
+}
+
+<h2>Редактирование</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.CLIENT.C_NAME, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.S_C, ClientList.Select(z => new SelectListItem()
+            { Text = z.C_NAME, Value = (z.C_ID).ToString(), Selected = true }), new { @class = "form-control" })
+
+            @Html.ValidationMessageFor(model => model.S_C, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.COURSE_OF_LECTURE.CL_THEME, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.S_CL, CourseList.Select(z => new SelectListItem()
+            { Text = z.CL_THEME, Value = (z.CL_ID).ToString(), Selected = true }), new { @class = "form-control" })
+
+            @Html.ValidationMessageFor(model => model.S_CL, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Сохранить" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @Html.ActionLink("Назад к списку", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

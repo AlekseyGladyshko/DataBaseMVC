@@ -1,0 +1,44 @@
+﻿@model IEnumerable<FFbasEDataEF.LECTURE>
+
+@{
+    ViewBag.Title = "DetailsLectures";
+}
+
+<h2>Лекции</h2>
+
+<p>
+    @Html.ActionLink("Добавить лекию", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.L_TOPIC)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.L_DATE)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.L_CL)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.L_TOPIC)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.L_DATE)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LECTURER.CLIENT.C_NAME)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.L_ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.L_ID })
+        </td>
+    </tr>
+}
+
+</table>

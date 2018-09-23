@@ -1,0 +1,69 @@
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF\FFbasEDataEF\bin\Debug\FFbasEDataEF.dll.config
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF\FFbasEDataEF\bin\Debug\FFbasEDataEF.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF\FFbasEDataEF\bin\Debug\FFbasEDataEF.pdb
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF\FFbasEDataEF\bin\Debug\EntityFramework.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF\FFbasEDataEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF\FFbasEDataEF\bin\Debug\EntityFramework.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF\FFbasEDataEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF\FFbasEDataEF\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF\FFbasEDataEF\obj\Debug\FFbasEDataEF.csproj.CoreCompileInputs.cache
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF\FFbasEDataEF\obj\Debug\FFbasEDataEF.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF\FFbasEDataEF\obj\Debug\FFbasEDataEF.pdb
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF\FFbasEDataEF\obj\Debug\FFbasEDataEF.csprojResolveAssemblyReference.cache
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\bin\Debug\FFbasEDataEF.dll.config
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\bin\Debug\FFbasEDataEF.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\bin\Debug\FFbasEDataEF.pdb
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\bin\Debug\EntityFramework.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\bin\Debug\System.Web.Razor.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\bin\Debug\System.Web.WebPages.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\bin\Debug\EntityFramework.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\obj\Debug\FFbasEDataEF.csprojAssemblyReference.cache
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\obj\Debug\FFbasEDataEF.csproj.CoreCompileInputs.cache
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\obj\Debug\FFbasEDataEF.csproj.CopyComplete
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\obj\Debug\FFbasEDataEF.dll
+C:\Users\HP-ENVY\source\repos\WinFormsFFbasE-EF — site\FFbasEDataEF\obj\Debug\FFbasEDataEF.pdb
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\FFbasE .mdf
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\FFbasE _log.ldf
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\FFbasEDataEF.dll.config
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\FFbasEDataEF.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\FFbasEDataEF.pdb
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\EntityFramework.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\System.Web.Razor.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\System.Web.WebPages.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\EntityFramework.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\obj\Debug\FFbasEDataEF.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\obj\Debug\FFbasEDataEF.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\obj\Debug\FFbasEDataEF.dll
+C:\Users\Alex\source\repos\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\obj\Debug\FFbasEDataEF.pdb
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\FFbasE .mdf
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\FFbasE _log.ldf
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\FFbasEDataEF.dll.config
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\FFbasEDataEF.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\FFbasEDataEF.pdb
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\EntityFramework.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\System.Web.Razor.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\System.Web.WebPages.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\EntityFramework.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\obj\Debug\FFbasEDataEF.csprojAssemblyReference.cache
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\obj\Debug\FFbasEDataEF.csproj.CoreCompileInputs.cache
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\obj\Debug\FFbasEDataEF.csproj.CopyComplete
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\obj\Debug\FFbasEDataEF.dll
+C:\Users\HP-ENVY\Downloads\Telegram Desktop\WinFormsFFbasE-EF — site\WinFormsFFbasE-EF — site - копия\FFbasEDataEF\obj\Debug\FFbasEDataEF.pdb

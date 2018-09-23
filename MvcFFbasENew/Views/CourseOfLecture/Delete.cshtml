@@ -1,0 +1,47 @@
+﻿@model FFbasEDataEF.COURSE_OF_LECTURE
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Удаление</h2>
+
+<h3>Вы действительно хотите удалить этот курс ?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CL_THEME)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CL_THEME)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CL_START)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CL_START)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CL_END)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CL_END)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Удалить" class="btn btn-default" /> |
+            @Html.ActionLink("Назад к списку", "Index")
+        </div>
+    }
+</div>

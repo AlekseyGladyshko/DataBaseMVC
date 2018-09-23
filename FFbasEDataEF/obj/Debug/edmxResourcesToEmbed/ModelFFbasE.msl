@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище DBFFbasEModelContainer" CdmEntityContainer="DBFFbasEEntities">
+    <EntitySetMapping Name="CLIENT">
+      <EntityTypeMapping TypeName="DBFFbasEModel.CLIENT">
+        <MappingFragment StoreEntitySet="CLIENT">
+          <ScalarProperty Name="C_ID" ColumnName="C_ID" />
+          <ScalarProperty Name="C_NAME" ColumnName="C_NAME" />
+          <ScalarProperty Name="C_EMAIL" ColumnName="C_EMAIL" />
+          <ScalarProperty Name="C_PHONE" ColumnName="C_PHONE" />
+          <ScalarProperty Name="C_SEC_PHONE" ColumnName="C_SEC_PHONE" />
+          <ScalarProperty Name="C_COMPANY" ColumnName="C_COMPANY" />
+          <ScalarProperty Name="C_POST" ColumnName="C_POST" />
+          <ScalarProperty Name="C_EXPERIENCE" ColumnName="C_EXPERIENCE" />
+          <ScalarProperty Name="C_INTERESTS" ColumnName="C_INTERESTS" />
+          <ScalarProperty Name="C_SG" ColumnName="C_SG" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="COURSE_OF_LECTURE">
+      <EntityTypeMapping TypeName="DBFFbasEModel.COURSE_OF_LECTURE">
+        <MappingFragment StoreEntitySet="COURSE_OF_LECTURE">
+          <ScalarProperty Name="CL_ID" ColumnName="CL_ID" />
+          <ScalarProperty Name="CL_THEME" ColumnName="CL_THEME" />
+          <ScalarProperty Name="CL_START" ColumnName="CL_START" />
+          <ScalarProperty Name="CL_END" ColumnName="CL_END" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EVENT">
+      <EntityTypeMapping TypeName="DBFFbasEModel.EVENT">
+        <MappingFragment StoreEntitySet="EVENT">
+          <ScalarProperty Name="E_ID" ColumnName="E_ID" />
+          <ScalarProperty Name="E_TITLE" ColumnName="E_TITLE" />
+          <ScalarProperty Name="E_DATE" ColumnName="E_DATE" />
+          <ScalarProperty Name="E_VENUE" ColumnName="E_VENUE" />
+          <ScalarProperty Name="E_ENTRANCE_PRICE" ColumnName="E_ENTRANCE_PRICE" />
+          <ScalarProperty Name="E_RECEIPTS" ColumnName="E_RECEIPTS" />
+          <ScalarProperty Name="E_SG" ColumnName="E_SG" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EVENT_CLIENT">
+      <EntityTypeMapping TypeName="DBFFbasEModel.EVENT_CLIENT">
+        <MappingFragment StoreEntitySet="EVENT_CLIENT">
+          <ScalarProperty Name="EC_ID" ColumnName="EC_ID" />
+          <ScalarProperty Name="EC_C" ColumnName="EC_C" />
+          <ScalarProperty Name="EC_E" ColumnName="EC_E" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LECTURE">
+      <EntityTypeMapping TypeName="DBFFbasEModel.LECTURE">
+        <MappingFragment StoreEntitySet="LECTURE">
+          <ScalarProperty Name="L_ID" ColumnName="L_ID" />
+          <ScalarProperty Name="L_LC" ColumnName="L_LC" />
+          <ScalarProperty Name="L_CL" ColumnName="L_CL" />
+          <ScalarProperty Name="L_TOPIC" ColumnName="L_TOPIC" />
+          <ScalarProperty Name="L_DATE" ColumnName="L_DATE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LECTURER">
+      <EntityTypeMapping TypeName="DBFFbasEModel.LECTURER">
+        <MappingFragment StoreEntitySet="LECTURER">
+          <ScalarProperty Name="LC_ID" ColumnName="LC_ID" />
+          <ScalarProperty Name="LC_C" ColumnName="LC_C" />
+          <ScalarProperty Name="LC_ACTIVITY" ColumnName="LC_ACTIVITY" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="STATUS">
+      <EntityTypeMapping TypeName="DBFFbasEModel.STATUS">
+        <MappingFragment StoreEntitySet="STATUS">
+          <ScalarProperty Name="SG_ID" ColumnName="SG_ID" />
+          <ScalarProperty Name="SG_NAME" ColumnName="SG_NAME" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="STUDENT">
+      <EntityTypeMapping TypeName="DBFFbasEModel.STUDENT">
+        <MappingFragment StoreEntitySet="STUDENT">
+          <ScalarProperty Name="S_ID" ColumnName="S_ID" />
+          <ScalarProperty Name="S_C" ColumnName="S_C" />
+          <ScalarProperty Name="S_CL" ColumnName="S_CL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="STUDENT_ON_LECTURE">
+      <EntityTypeMapping TypeName="DBFFbasEModel.STUDENT_ON_LECTURE">
+        <MappingFragment StoreEntitySet="STUDENT_ON_LECTURE">
+          <ScalarProperty Name="SL_ID" ColumnName="SL_ID" />
+          <ScalarProperty Name="SL_S" ColumnName="SL_S" />
+          <ScalarProperty Name="SL_L" ColumnName="SL_L" />
+          <ScalarProperty Name="SL_PRESENCE" ColumnName="SL_PRESENCE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

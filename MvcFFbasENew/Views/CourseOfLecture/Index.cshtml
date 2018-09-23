@@ -1,0 +1,45 @@
+﻿@model IEnumerable<FFbasEDataEF.COURSE_OF_LECTURE>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Список обучающих курсов</h2>
+
+<p>
+    @Html.ActionLink("Добавить обучающий курс", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CL_THEME)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CL_START)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CL_END)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CL_THEME)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CL_START)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CL_END)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CL_ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CL_ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CL_ID })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище DBFFbasEModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CLIENT">
+    <Key>
+      <PropertyRef Name="C_ID" />
+    </Key>
+    <Property Name="C_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="C_NAME" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="C_EMAIL" Type="nvarchar" MaxLength="30" />
+    <Property Name="C_PHONE" Type="nchar" MaxLength="20" />
+    <Property Name="C_SEC_PHONE" Type="nchar" MaxLength="20" />
+    <Property Name="C_COMPANY" Type="nvarchar" MaxLength="50" />
+    <Property Name="C_POST" Type="nvarchar" MaxLength="50" />
+    <Property Name="C_EXPERIENCE" Type="nvarchar(max)" />
+    <Property Name="C_INTERESTS" Type="nvarchar(max)" />
+    <Property Name="C_SG" Type="int" />
+  </EntityType>
+  <EntityType Name="COURSE_OF_LECTURE">
+    <Key>
+      <PropertyRef Name="CL_ID" />
+    </Key>
+    <Property Name="CL_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CL_THEME" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CL_START" Type="date" />
+    <Property Name="CL_END" Type="date" />
+  </EntityType>
+  <EntityType Name="EVENT">
+    <Key>
+      <PropertyRef Name="E_ID" />
+    </Key>
+    <Property Name="E_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="E_TITLE" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="E_DATE" Type="date" />
+    <Property Name="E_VENUE" Type="nvarchar" MaxLength="50" />
+    <Property Name="E_ENTRANCE_PRICE" Type="float" />
+    <Property Name="E_RECEIPTS" Type="float" />
+    <Property Name="E_SG" Type="int" />
+  </EntityType>
+  <EntityType Name="EVENT_CLIENT">
+    <Key>
+      <PropertyRef Name="EC_ID" />
+    </Key>
+    <Property Name="EC_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EC_C" Type="int" Nullable="false" />
+    <Property Name="EC_E" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LECTURE">
+    <Key>
+      <PropertyRef Name="L_ID" />
+    </Key>
+    <Property Name="L_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="L_LC" Type="int" Nullable="false" />
+    <Property Name="L_CL" Type="int" />
+    <Property Name="L_TOPIC" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="L_DATE" Type="date" />
+  </EntityType>
+  <EntityType Name="LECTURER">
+    <Key>
+      <PropertyRef Name="LC_ID" />
+    </Key>
+    <Property Name="LC_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="LC_C" Type="int" Nullable="false" />
+    <Property Name="LC_ACTIVITY" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="STATUS">
+    <Key>
+      <PropertyRef Name="SG_ID" />
+    </Key>
+    <Property Name="SG_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SG_NAME" Type="nchar" MaxLength="15" Nullable="false" />
+  </EntityType>
+  <EntityType Name="STUDENT">
+    <Key>
+      <PropertyRef Name="S_ID" />
+    </Key>
+    <Property Name="S_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="S_C" Type="int" Nullable="false" />
+    <Property Name="S_CL" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="STUDENT_ON_LECTURE">
+    <Key>
+      <PropertyRef Name="SL_ID" />
+    </Key>
+    <Property Name="SL_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SL_S" Type="int" Nullable="false" />
+    <Property Name="SL_L" Type="int" Nullable="false" />
+    <Property Name="SL_PRESENCE" Type="bit" />
+  </EntityType>
+  <Association Name="FK_CLIENT_STATUS">
+    <End Role="STATUS" Type="Self.STATUS" Multiplicity="0..1" />
+    <End Role="CLIENT" Type="Self.CLIENT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STATUS">
+        <PropertyRef Name="SG_ID" />
+      </Principal>
+      <Dependent Role="CLIENT">
+        <PropertyRef Name="C_SG" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EVENT_CLIENT_CLIENT">
+    <End Role="CLIENT" Type="Self.CLIENT" Multiplicity="1" />
+    <End Role="EVENT_CLIENT" Type="Self.EVENT_CLIENT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CLIENT">
+        <PropertyRef Name="C_ID" />
+      </Principal>
+      <Dependent Role="EVENT_CLIENT">
+        <PropertyRef Name="EC_C" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EVENT_CLIENT_EVENT">
+    <End Role="EVENT" Type="Self.EVENT" Multiplicity="1" />
+    <End Role="EVENT_CLIENT" Type="Self.EVENT_CLIENT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EVENT">
+        <PropertyRef Name="E_ID" />
+      </Principal>
+      <Dependent Role="EVENT_CLIENT">
+        <PropertyRef Name="EC_E" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EVENT_STATUS">
+    <End Role="STATUS" Type="Self.STATUS" Multiplicity="0..1" />
+    <End Role="EVENT" Type="Self.EVENT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STATUS">
+        <PropertyRef Name="SG_ID" />
+      </Principal>
+      <Dependent Role="EVENT">
+        <PropertyRef Name="E_SG" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LECTURE_COURSE_OF_LECTURE">
+    <End Role="COURSE_OF_LECTURE" Type="Self.COURSE_OF_LECTURE" Multiplicity="0..1" />
+    <End Role="LECTURE" Type="Self.LECTURE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="COURSE_OF_LECTURE">
+        <PropertyRef Name="CL_ID" />
+      </Principal>
+      <Dependent Role="LECTURE">
+        <PropertyRef Name="L_CL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LECTURE_LECTURER">
+    <End Role="LECTURER" Type="Self.LECTURER" Multiplicity="1" />
+    <End Role="LECTURE" Type="Self.LECTURE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LECTURER">
+        <PropertyRef Name="LC_ID" />
+      </Principal>
+      <Dependent Role="LECTURE">
+        <PropertyRef Name="L_LC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LECTURER_CLIENT">
+    <End Role="CLIENT" Type="Self.CLIENT" Multiplicity="1" />
+    <End Role="LECTURER" Type="Self.LECTURER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CLIENT">
+        <PropertyRef Name="C_ID" />
+      </Principal>
+      <Dependent Role="LECTURER">
+        <PropertyRef Name="LC_C" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_STUDENT_CLIENT">
+    <End Role="CLIENT" Type="Self.CLIENT" Multiplicity="1" />
+    <End Role="STUDENT" Type="Self.STUDENT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CLIENT">
+        <PropertyRef Name="C_ID" />
+      </Principal>
+      <Dependent Role="STUDENT">
+        <PropertyRef Name="S_C" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_STUDENT_COURSE_OF_LECTURE">
+    <End Role="COURSE_OF_LECTURE" Type="Self.COURSE_OF_LECTURE" Multiplicity="1" />
+    <End Role="STUDENT" Type="Self.STUDENT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="COURSE_OF_LECTURE">
+        <PropertyRef Name="CL_ID" />
+      </Principal>
+      <Dependent Role="STUDENT">
+        <PropertyRef Name="S_CL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_STUDENT_ON_LECTURE_LECTURE">
+    <End Role="LECTURE" Type="Self.LECTURE" Multiplicity="1" />
+    <End Role="STUDENT_ON_LECTURE" Type="Self.STUDENT_ON_LECTURE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LECTURE">
+        <PropertyRef Name="L_ID" />
+      </Principal>
+      <Dependent Role="STUDENT_ON_LECTURE">
+        <PropertyRef Name="SL_L" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_STUDENT_ON_LECTURE_STUDENT">
+    <End Role="STUDENT" Type="Self.STUDENT" Multiplicity="1" />
+    <End Role="STUDENT_ON_LECTURE" Type="Self.STUDENT_ON_LECTURE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STUDENT">
+        <PropertyRef Name="S_ID" />
+      </Principal>
+      <Dependent Role="STUDENT_ON_LECTURE">
+        <PropertyRef Name="SL_S" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище DBFFbasEModelContainer">
+    <EntitySet Name="CLIENT" EntityType="Self.CLIENT" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="COURSE_OF_LECTURE" EntityType="Self.COURSE_OF_LECTURE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EVENT" EntityType="Self.EVENT" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EVENT_CLIENT" EntityType="Self.EVENT_CLIENT" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LECTURE" EntityType="Self.LECTURE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LECTURER" EntityType="Self.LECTURER" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="STATUS" EntityType="Self.STATUS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="STUDENT" EntityType="Self.STUDENT" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="STUDENT_ON_LECTURE" EntityType="Self.STUDENT_ON_LECTURE" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_CLIENT_STATUS" Association="Self.FK_CLIENT_STATUS">
+      <End Role="STATUS" EntitySet="STATUS" />
+      <End Role="CLIENT" EntitySet="CLIENT" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EVENT_CLIENT_CLIENT" Association="Self.FK_EVENT_CLIENT_CLIENT">
+      <End Role="CLIENT" EntitySet="CLIENT" />
+      <End Role="EVENT_CLIENT" EntitySet="EVENT_CLIENT" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EVENT_CLIENT_EVENT" Association="Self.FK_EVENT_CLIENT_EVENT">
+      <End Role="EVENT" EntitySet="EVENT" />
+      <End Role="EVENT_CLIENT" EntitySet="EVENT_CLIENT" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EVENT_STATUS" Association="Self.FK_EVENT_STATUS">
+      <End Role="STATUS" EntitySet="STATUS" />
+      <End Role="EVENT" EntitySet="EVENT" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LECTURE_COURSE_OF_LECTURE" Association="Self.FK_LECTURE_COURSE_OF_LECTURE">
+      <End Role="COURSE_OF_LECTURE" EntitySet="COURSE_OF_LECTURE" />
+      <End Role="LECTURE" EntitySet="LECTURE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LECTURE_LECTURER" Association="Self.FK_LECTURE_LECTURER">
+      <End Role="LECTURER" EntitySet="LECTURER" />
+      <End Role="LECTURE" EntitySet="LECTURE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LECTURER_CLIENT" Association="Self.FK_LECTURER_CLIENT">
+      <End Role="CLIENT" EntitySet="CLIENT" />
+      <End Role="LECTURER" EntitySet="LECTURER" />
+    </AssociationSet>
+    <AssociationSet Name="FK_STUDENT_CLIENT" Association="Self.FK_STUDENT_CLIENT">
+      <End Role="CLIENT" EntitySet="CLIENT" />
+      <End Role="STUDENT" EntitySet="STUDENT" />
+    </AssociationSet>
+    <AssociationSet Name="FK_STUDENT_COURSE_OF_LECTURE" Association="Self.FK_STUDENT_COURSE_OF_LECTURE">
+      <End Role="COURSE_OF_LECTURE" EntitySet="COURSE_OF_LECTURE" />
+      <End Role="STUDENT" EntitySet="STUDENT" />
+    </AssociationSet>
+    <AssociationSet Name="FK_STUDENT_ON_LECTURE_LECTURE" Association="Self.FK_STUDENT_ON_LECTURE_LECTURE">
+      <End Role="LECTURE" EntitySet="LECTURE" />
+      <End Role="STUDENT_ON_LECTURE" EntitySet="STUDENT_ON_LECTURE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_STUDENT_ON_LECTURE_STUDENT" Association="Self.FK_STUDENT_ON_LECTURE_STUDENT">
+      <End Role="STUDENT" EntitySet="STUDENT" />
+      <End Role="STUDENT_ON_LECTURE" EntitySet="STUDENT_ON_LECTURE" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

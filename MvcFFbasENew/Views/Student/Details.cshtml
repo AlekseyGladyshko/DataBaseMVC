@@ -1,0 +1,89 @@
+﻿@model FFbasEDataEF.STUDENT
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Детальная информация</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CLIENT.C_NAME)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CLIENT.C_NAME)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CLIENT.C_EMAIL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CLIENT.C_EMAIL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CLIENT.C_PHONE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CLIENT.C_PHONE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CLIENT.C_SEC_PHONE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CLIENT.C_SEC_PHONE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CLIENT.C_COMPANY)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CLIENT.C_COMPANY)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CLIENT.C_POST)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CLIENT.C_POST)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CLIENT.C_EXPERIENCE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CLIENT.C_EXPERIENCE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CLIENT.C_INTERESTS)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CLIENT.C_INTERESTS)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CLIENT.C_SG)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CLIENT.STATUS.SG_NAME)
+        </dd>
+        <p>
+            @Html.ActionLink("Редактировать", "Edit", "Client", new { id = Model.S_C }, null) |
+            @Html.ActionLink("Вернуться к списку студентов", "Index")
+        </p>
+    </dl>
+</div>
+
